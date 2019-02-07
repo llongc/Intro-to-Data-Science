@@ -1,3 +1,2 @@
-# DataScience
-# DataScience
-**lol**
+# Intro to Data Science
+**lab material and exercises**
